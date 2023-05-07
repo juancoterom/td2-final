@@ -1,8 +1,5 @@
-# utn-frc_td2_proyecto-final
-
 			Trabajo Práctico Final - Técnicas Digitales II
 			
-#
 
 				====== EJERCICIOS ======
 
